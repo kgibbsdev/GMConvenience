@@ -1,0 +1,15 @@
+# Compiled Object files
+*.gmx
+*.win
+*.yyz
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+
+# User-specific files
+*.yyp
+*.png
+sprites/
